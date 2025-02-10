@@ -11,14 +11,15 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  # Enter your e-mail address
+  author = ""
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "KUBERNETES ON AWS WORKSHOP"
+title = "AWS WORKSHOP"
 weight = 1
 languageName = "English"
 
@@ -35,7 +36,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "KUBERNETES ON AWS WORKSHOP"
+title = "AWS WORKSHOP"
 weight = 2
 languageName = "Tiếng Việt"
 
